@@ -5,7 +5,7 @@ Penyalahgunaan terhadap tool ini diluar tanggungjawab gw.
 * Menu
 ![1](https://github.com/pennyw1s3/Virus-Computer/blob/master/menu.png)
 * Info
-![2](
+![2](https://github.com/pennyw1s3/Virus-Computer/blob/master/info.png)
 # Command
 * `pkg update && pkg upgrade`
 * `pkg install gem`
