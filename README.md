@@ -20,4 +20,5 @@ Penyalahgunaan terhadap tool ini diluar tanggungjawab gw.
 [Whatsapp](https://api.whatsapp.com/send?phone=6283871259489&text=Assalamu'alaikum%20Akhii%20:v)
 # Kunjungi Blog Gw
 [Blogger](https://mukalukayaintegral.blogspot.com/?m=1)
-# Thanks For Using This Tool
+# gw tau gambar vircom d menu nya cacad dikit, Karena gw enkripsi, biar kaga d recode bocah tolol
+
