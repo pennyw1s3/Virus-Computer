@@ -14,6 +14,7 @@ Penyalahgunaan terhadap tool ini diluar tanggungjawab gw.
 * `pkg install git`
 * `git clone https://github.com/pennyw1s3/Virus-Computer`
 * `cd Virus-Computer`
+* `termux-setup-storage`
 * `chmod +x *`
 * `sh vircom.sh`
 # Chat Gw Via Whatsapp
