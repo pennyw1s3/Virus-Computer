@@ -1,8 +1,10 @@
 # Virus-Computer
 Tool ini dibuat hanya untuk pembelajaran.
 Penyalahgunaan terhadap tool ini diluar tanggungjawab gw.
-# Screenshot
-![1](
+# Screenshots
+* Menu
+![1](https://github.com/pennyw1s3/Virus-Computer/blob/master/menu.png)
+* Info
 ![2](
 # Command
 * `pkg update && pkg upgrade`
